@@ -50,5 +50,19 @@
     "category_es": "frontend",
     "subcategory_en": "animations",
     "subcategory_es": "animaciones"
+  },
+  {
+    "id": "41",
+    "name": "AutoAnimate",
+    "description": {
+      "en": "Add motion to your apps with a single line of code.",
+      "es": "Agregue movimiento a sus aplicaciones con una sola línea de código."
+    },
+
+    "url": "https://auto-animate.formkit.com/",
+    "category_en": "frontend",
+    "category_es": "frontend",
+    "subcategory_en": "animations",
+    "subcategory_es": "animaciones"
   }
 ]
